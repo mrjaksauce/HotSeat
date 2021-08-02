@@ -1,7 +1,6 @@
 export class Settings {
 
     static moduleName = 'foundry-hot-seat-observer';
-
     static cameraMoveOnInitiativeSettingName = 'cameraMoveOnInitiative';
     static toggleGMSelectSettingName = 'toggleGMSelect';
     static hotSeatPlayerNameSettingName = 'hotSeatPlayerName';
