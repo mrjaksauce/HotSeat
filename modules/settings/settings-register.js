@@ -18,7 +18,7 @@ export function registerSettings() {
  		hint: Settings.localizedSettingHint(Settings.toggleGMSelectSettingName),
 		config: true,
 		scope: "world",
- 		default: false,
+ 		default: true,
  		type: Boolean
  	});
 
@@ -36,7 +36,7 @@ export function registerSettings() {
  		hint: Settings.localizedSettingHint(Settings.cameraMoveOnInitiativeSettingName),
  		scope: "world",
  		config: true,
- 		default: true,
+ 		default: false,
  		type: Boolean
 	});
 
