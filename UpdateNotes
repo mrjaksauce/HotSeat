@@ -1,0 +1,6 @@
+03 Aug 2021
+
+Updated base requirement to 0.8
+
+Set TokenPan option to default false instead of true.
+Set GmSelect option to default true instead of false.
